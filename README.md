@@ -21,12 +21,6 @@ El objetivo fue analizar los lanzamientos de SpaceX, utilizando datos de la API 
 - **Dashboard**: Construimos una app interactiva en Dash para explorar lanzamientos.
 - **ML Models**: Evaluamos 4 modelos (LogReg, SVM, DT, KNN).  
   El mejor modelo fue **Logistic Regression** con accuracy de **83.3%**.
-
----
-
-## 📑 Presentación Final
-La presentación del proyecto se encuentra en la carpeta [`presentation/`](./presentation).
-
 ---
 
 ## 👤 Autor
